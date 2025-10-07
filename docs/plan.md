@@ -8,3 +8,7 @@ Ngay ket thuc: 14/10/2025
 - Thu 6: Thao luan nhom ve su dung Git.
 - Thu 7: Tong hop kien thuc va viet bao cao.
 - Chu nhat: Nghi ngoi va doc them ve CI/CD.
+Ngày 9: Thực hành merge conflict.
+Ngày 10: Tổng kết và viết báo cáo.
+Ngày 11: Chuẩn bị cho bài thi Git Final Exam.
+
