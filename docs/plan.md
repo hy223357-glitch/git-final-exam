@@ -8,7 +8,12 @@ Ngay ket thuc: 14/10/2025
 - Thu 6: Thao luan nhom ve su dung Git.
 - Thu 7: Tong hop kien thuc va viet bao cao.
 - Chu nhat: Nghi ngoi va doc them ve CI/CD.
+<<<<<<< Updated upstream
 Ngày 9: Thực hành merge conflict.
 Ngày 10: Tổng kết và viết báo cáo.
 Ngày 11: Chuẩn bị cho bài thi Git Final Exam.
+=======
+Ngày 12: Học cách sử dụng git stash apply.
+Ngày 13: Hoàn thành bài tập Git Final Exam.
+>>>>>>> Stashed changes
 
