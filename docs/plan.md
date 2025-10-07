@@ -1,0 +1,10 @@
+Ke hoach hoc tap trong 1 tuan:
+Ngay bat dau: 07/10/2025
+Ngay ket thuc: 14/10/2025
+- Thu 2: On tap cac lenh Git co ban.
+- Thu 3: Thuc hanh tao va merge branch.
+- Thu 4: Tim hieu ve GitHub Pull Request.
+- Thu 5: Lam bai tap Git nang cao.
+- Thu 6: Thao luan nhom ve su dung Git.
+- Thu 7: Tong hop kien thuc va viet bao cao.
+- Chu nhat: Nghi ngoi va doc them ve CI/CD.
