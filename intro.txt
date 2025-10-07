@@ -1,4 +1,6 @@
-Xin chao, toi la Nguyen Chi Hy.
+Hello, this is Nguyễn Chí Hy.
+Xin chào, tôi là Nguyễn Chí Hy.
+Conflict resolved on 07/10/2025
 Toi dang hoc ve Git và GitHub 
 Toi yeu thich viec tim hieu cach lam viec nhom bang Git.
 Muc tieu cua toi la tro thanh mot lap trinh vien gioi va chuyen nghiep.
@@ -10,13 +12,5 @@ So thich:
 
 Ky nang:
 - Lap trinh web (HTML, CSS, JS).
-- Su dung Git và GitHub.
+- Lap trinh web (HTML, CSS, JS).
 - Giao tiep va lam viec nhom.
-
-Kế hoạch học tập:
-- Ôn lại toàn bộ kiến thức Git và GitHub.
-- Thực hành các lệnh Git cơ bản (add, commit, push, pull).
-- Học cách tạo, review và merge pull request.
-- Nghiên cứu thêm về branching và workflow trong Git.
-- Ứng dụng Git để làm việc nhóm trong đồ án cuối kỳ.
-
