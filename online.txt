@@ -1,3 +1,5 @@
 Đây là file được tạo trực tiếp trên GitHub.
 Tôi đang thực hành bài Git Final Exam.
 GitHub giúp làm việc trực tuyến rất tiện lợi.
+Tôi đã pull file này về từ GitHub.
+Giờ tôi chỉnh sửa tại local và sẽ push lên lại.
