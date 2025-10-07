@@ -1,4 +1,4 @@
-Xin chao, toi la Nguyen Chi Hy.
+Hello, this is Nguyễn Chí Hy.
 Toi dang hoc ve Git và GitHub 
 Toi yeu thich viec tim hieu cach lam viec nhom bang Git.
 Muc tieu cua toi la tro thanh mot lap trinh vien gioi va chuyen nghiep.
