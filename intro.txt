@@ -1,4 +1,6 @@
 Hello, this is Nguyễn Chí Hy.
+Xin chào, tôi là Nguyễn Chí Hy.
+Conflict resolved on 07/10/2025
 Toi dang hoc ve Git và GitHub 
 Toi yeu thich viec tim hieu cach lam viec nhom bang Git.
 Muc tieu cua toi la tro thanh mot lap trinh vien gioi va chuyen nghiep.
