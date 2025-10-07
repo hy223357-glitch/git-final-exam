@@ -1,0 +1,6 @@
+Tinh nang moi: Tim kiem va loc du lieu.
+- Cho phep nguoi dung nhap tu khoa tim kiem.
+- Ket qua hien thi duoi dang bang.
+- Co nut sap xep tang/giam dan theo ten.
+- Toi uu toc do tra ket qua trong 2s.
+- Cho phep tim kiem trong tat ca cac danh muc.
