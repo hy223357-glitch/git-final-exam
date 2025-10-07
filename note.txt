@@ -1,5 +1,3 @@
 - Git giúp quản lý phiên bản dễ dàng hơn.
 - Tôi học được cách dùng branch và commit hiệu quả.
 - GitHub giúp làm việc nhóm rất tiện lợi.
-- Tôi nhận ra Git rất mạnh mẽ khi kết hợp với GitHub.
-- Tôi sẽ dùng Git cho tất cả dự án trong tương lai.
