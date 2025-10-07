@@ -10,5 +10,13 @@ So thich:
 
 Ky nang:
 - Lap trinh web (HTML, CSS, JS).
-- Lap trinh web (HTML, CSS, JS).
+- Su dung Git và GitHub.
 - Giao tiep va lam viec nhom.
+
+Kế hoạch học tập:
+- Ôn lại toàn bộ kiến thức Git và GitHub.
+- Thực hành các lệnh Git cơ bản (add, commit, push, pull).
+- Học cách tạo, review và merge pull request.
+- Nghiên cứu thêm về branching và workflow trong Git.
+- Ứng dụng Git để làm việc nhóm trong đồ án cuối kỳ.
+
