@@ -1,0 +1,14 @@
+Xin chao, toi la Nguyen Chi Hy.
+Toi dang hoc ve Git và GitHub 
+Toi yeu thich viec tim hieu cach lam viec nhom bang Git.
+Muc tieu cua toi la tro thanh mot lap trinh vien gioi va chuyen nghiep.
+
+So thich:
+- Lap trinh va nghien cuu cong nghe moi.
+- Choi game va xem phim.
+- Du lich kham pha.
+
+Ky nang:
+- Lap trinh web (HTML, CSS, JS).
+- Lap trinh web (HTML, CSS, JS).
+- Giao tiep va lam viec nhom.
